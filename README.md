@@ -62,5 +62,3 @@ This repository contains **all ETL modeling tasks**, including classic warehouse
 - Merge student/faculty/attendance from both servers  
 - Resolve duplicates + missing values  
 - Load unified DW tables
-
-### **Simplified BPMN Workflow**
